@@ -1,5 +1,5 @@
 *not empty readme
-now is time to updated**
+now is time to updated
 # 0x03-git
 
 This repository contains the solutions for the tasks related to the `0x03-git` project at ALX School. Each task focuses on different aspects of using Git and GitHub for version control and collaboration.
